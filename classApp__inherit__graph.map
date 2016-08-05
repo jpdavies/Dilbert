@@ -1,0 +1,9 @@
+<map id="App" name="App">
+<area shape="rect" id="node2" href="$classButtonTestApp.html" title="Simple demo/test of the buttons. " alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node3" href="$classDilbertApp.html" title="Displays Dilbert image. " alt="" coords="139,80,220,107"/>
+<area shape="rect" id="node4" href="$classMenuApp.html" title="Provides a menu for launching applications. " alt="" coords="245,80,321,107"/>
+<area shape="rect" id="node5" href="$classStarsApp.html" title="Displays Starfield. " alt="" coords="347,80,423,107"/>
+<area shape="rect" id="node6" href="$classStaticDisplayApp.html" title="Used for displaying static content at any screen orientation. " alt="" coords="448,80,571,107"/>
+<area shape="rect" id="node8" href="$classSystemSettingsApp.html" title="Provides functionality for changing system setings. " alt="" coords="595,80,733,107"/>
+<area shape="rect" id="node7" href="$classProfileApp.html" title="Displays profile/contact information on the display. " alt="" coords="468,155,549,181"/>
+</map>

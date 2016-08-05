@@ -1,0 +1,13 @@
+<map id="library/examples/AppManager/AppManager.ino" name="library/examples/AppManager/AppManager.ino">
+<area shape="rect" id="node9" href="$Adafruit__MCP23017_8h.html" title="Adafruit_MCP23017.h" alt="" coords="1290,469,1440,496"/>
+<area shape="rect" id="node10" href="$Dilbert_8h.html" title="Dilbert.h" alt="" coords="1131,395,1201,421"/>
+<area shape="rect" id="node11" href="$AppManager_8h.html" title="AppManager.h" alt="" coords="625,320,732,347"/>
+<area shape="rect" id="node16" href="$MenuApp_8h.html" title="MenuApp.h" alt="" coords="1001,171,1089,197"/>
+<area shape="rect" id="node18" href="$ButtonTestApp_8h.html" title="ButtonTestApp.h" alt="" coords="1113,171,1233,197"/>
+<area shape="rect" id="node19" href="$SystemSettingsApp_8h.html" title="SystemSettingsApp.h" alt="" coords="507,171,655,197"/>
+<area shape="rect" id="node20" href="$ProfileApp_8h.html" title="ProfileApp.h" alt="" coords="681,96,775,123"/>
+<area shape="rect" id="node22" href="$StarsApp_8h.html" title="StarsApp.h" alt="" coords="839,171,925,197"/>
+<area shape="rect" id="node23" href="$DilbertApp_8h.html" title="DilbertApp.h" alt="" coords="882,96,976,123"/>
+<area shape="rect" id="node17" href="$App_8h.html" title="App.h" alt="" coords="895,245,949,272"/>
+<area shape="rect" id="node21" href="$StaticDisplayApp_8h.html" title="StaticDisplayApp.h" alt="" coords="681,171,815,197"/>
+</map>
